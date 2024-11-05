@@ -1,0 +1,61 @@
+.nav-height {
+  height: 75px;
+  background-color: rgba(231, 229, 222, 0.411);
+  margin-top: -20px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: black;
+  display: block;
+}
+
+.card-bottom {
+  width: 400px;
+  height: 160px;
+}
+
+.color-v {
+  background-color: rgba(235, 226, 226, 0.719);
+  height: 400px;
+  width: 100%;
+}
+
+.text {
+  /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
+  font-style: italic;
+  color: rgb(16, 16, 24);
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  font-size: 15px;
+}
+
+.fisrt-body {
+  width: 65%;
+}
+.second-body {
+  width: 35%;
+}
+.IQD-color {
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.Choose-class {
+  font-size: 15px;
+}
+
+.button-fav {
+  width: 250px;
+  border-radius: 20px;
+  height: 50px;
+}
+
+.add-cart {
+  color: rgba(109, 109, 172, 0.658);
+}
+
+.parag-class {
+  font-weight: lighter;
+  font-size: 13px;
+}
