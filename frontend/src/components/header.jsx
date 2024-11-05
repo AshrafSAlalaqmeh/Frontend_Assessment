@@ -60,8 +60,8 @@ const header = () => {
             <h5 className="text">Lines</h5>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="14"
+              height="14"
               fill="currentColor"
               class="bi bi-caret-down-fill"
               viewBox="0 0 16 16"
@@ -73,8 +73,8 @@ const header = () => {
             <h5 className="text">Internet</h5>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="14"
+              height="14"
               fill="currentColor"
               class="bi bi-caret-down-fill"
               viewBox="0 0 16 16"
@@ -86,8 +86,8 @@ const header = () => {
             <h5 className="text">Devices</h5>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="14"
+              height="14"
               fill="currentColor"
               class="bi bi-caret-down-fill"
               viewBox="0 0 16 16"
@@ -99,8 +99,8 @@ const header = () => {
             <h5 className="text">Accessories</h5>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="14"
+              height="14"
               fill="currentColor"
               class="bi bi-caret-down-fill"
               viewBox="0 0 16 16"
