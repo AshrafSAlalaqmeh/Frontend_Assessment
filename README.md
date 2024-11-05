@@ -1,6 +1,6 @@
 # Frontend_Assessment
 
-1. Install packeges repeat this step in backend and frontend folder
+1. Install packeges repeat this step frontend folder
 
 ```
 npm i
